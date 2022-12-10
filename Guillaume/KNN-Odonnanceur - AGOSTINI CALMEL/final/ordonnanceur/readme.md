@@ -1,12 +1,13 @@
-Intitule du Projet : Ordonnanceur
+# Intitule du Projet 
+Ordonnanceur
 
-Developpeurs :
+## Developpeurs :
     Mathieu AGOSTINI (agostinimat@cy-tech.fr)
     Guillaume CALMEL (calmelguil@cy-tech.fr)
 
 Date de rendu : 12/12/2022
 
-Descriptif general :
+## Descriptif general :
     Création d'un programme simulant l'execution d'un ordonnanceur.
     Type d'odonnancement : Round Robin
     La durée maximale d'execution d'un processus par cycle est de 5 secondes (Peut être modifié avec la Macro-Constante DUREE_ORDONNANCEMENT).
