@@ -1,0 +1,48 @@
+Ordonnanceur 1670346253:
+
+~~~ Insertion du processus -- 1er -- dans la file. Duree de vie : 4. Priorite : 2.
+Execution du processus -- 1er -- pendant 3 secondes. Duree de vie restante : 1.
+~~~ Insertion du processus -- RAND_3675 -- dans la file. Duree de vie : 13. Priorite : 0.
+Terminaison du processus -- 1er -- en 1 secondes.
+~~~ Insertion du processus -- RAND_6291 -- dans la file. Duree de vie : 2. Priorite : 2.
+Execution du processus -- RAND_3675 -- pendant 5 secondes. Duree de vie restante : 8.
+~~~ Insertion du processus -- RAND_0936 -- dans la file. Duree de vie : 0. Priorite : 1.
+Terminaison du processus -- RAND_6291 -- en 2 secondes.
+Execution du processus -- RAND_3675 -- pendant 5 secondes. Duree de vie restante : 3.
+Terminaison du processus -- RAND_0936 -- en 0 secondes.
+Terminaison du processus -- RAND_3675 -- en 3 secondes.
+______________________________________________________
+
+Ordonnanceur 1670360638:
+
+~~~ Insertion du processus -- 1er -- dans la file. Duree de vie : 10. Priorite : 4.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 9.
+~~~ Insertion du processus -- RAND_3675 -- dans la file. Duree de vie : 11. Priorite : 0.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 8.
+~~~ Insertion du processus -- RAND_6291 -- dans la file. Duree de vie : 2. Priorite : 2.
+Execution du processus -- RAND_3675 -- pendant 5 secondes. Duree de vie restante : 6.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 7.
+Terminaison du processus -- RAND_6291 -- en 2 secondes.
+Execution du processus -- RAND_3675 -- pendant 5 secondes. Duree de vie restante : 1.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 6.
+Terminaison du processus -- RAND_3675 -- en 1 secondes.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 5.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 4.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 3.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 2.
+Execution du processus -- 1er -- pendant 1 secondes. Duree de vie restante : 1.
+Terminaison du processus -- 1er -- en 1 secondes.
+______________________________________________________
+
+Ordonnanceur 1670362039:
+
+~~~ Insertion du processus -- 1er -- dans la file. Duree de vie : 4. Priorite : 2.
+Execution du processus -- 1er -- pendant 3 secondes. Duree de vie restante : 1.
+~~~ Insertion du processus -- RAND_3675 -- dans la file. Duree de vie : 11. Priorite : 0.
+Terminaison du processus -- 1er -- en 1 secondes.
+Execution du processus -- RAND_3675 -- pendant 5 secondes. Duree de vie restante : 6.
+~~~ Insertion du processus -- RAND_6291 -- dans la file. Duree de vie : 2. Priorite : 2.
+Execution du processus -- RAND_3675 -- pendant 5 secondes. Duree de vie restante : 1.
+Terminaison du processus -- RAND_6291 -- en 2 secondes.
+Terminaison du processus -- RAND_3675 -- en 1 secondes.
+______________________________________________________
