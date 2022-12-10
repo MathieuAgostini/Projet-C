@@ -1,16 +1,17 @@
-Intitule du Projet : K-nearest Neighbour
+# Intitule du Projet 
+K-nearest Neighbour
 
-Developpeurs : 
+## Developpeurs : 
     Mathieu AGOSTINI (agostinimat@cy-tech.fr)
     Guillaume CALMEL (calmelguil@cy-tech.fr)
 
 Date de rendu : 12/12/2022
 
-Descriptif general :
+## Descriptif general :
     Algorithme d’apprentissage supervisé capable de résoudre les problèmes de classification et de régression.
     Estime le prix d'un logement en comparant ses caractéristiques à ceux des K logements les plus similaires.
 
-Fonctionnement :
+## Fonctionnement :
     Lit le fichier bis.csv dans le répertoire data.
     Etant donné la durée d'execution du programme le nombre de logement a été réduit à 200 logements. (~30s sur les PC de l'école)
 _______________________________________________________________________________
